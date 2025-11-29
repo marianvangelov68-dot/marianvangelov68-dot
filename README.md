@@ -28,7 +28,6 @@ Currently looking for a **Junior Web Developer internship (20–25h/week)** wher
 ---
 
 
----
 
 ## 🎓 Courses  
 - Telerik Academy School – Game Development  
@@ -44,7 +43,3 @@ Currently looking for a **Junior Web Developer internship (20–25h/week)** wher
 - Always down to try new ideas  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marianvangelov68-dot&show_icons=true" />
-</p>
