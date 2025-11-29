@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hey, I'm Mariyan</h1>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marianvangelov68-dot" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🚀 About Me  
